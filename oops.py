@@ -1,8 +1,8 @@
 class employee:
     def __init__(self):
-        self.name = "Siddharth"
-        self.age = 21
-        self.designation = "data scientist"
+        name = "Siddharth"
+        age = 21
+        designation = "data scientist"
         print(f'constructor initialized')
     
     def travel(self):
